@@ -1,0 +1,15 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\EjercPowMath\bin\Debug\net6.0\EjercPowMath.exe
+C:\Users\fabellaiva\source\repos\Ejercicios\EjercPowMath\bin\Debug\net6.0\EjercPowMath.deps.json
+C:\Users\fabellaiva\source\repos\Ejercicios\EjercPowMath\bin\Debug\net6.0\EjercPowMath.runtimeconfig.json
+C:\Users\fabellaiva\source\repos\Ejercicios\EjercPowMath\bin\Debug\net6.0\EjercPowMath.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\EjercPowMath\bin\Debug\net6.0\EjercPowMath.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\EjercPowMath\obj\Debug\net6.0\EjercPowMath.csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\EjercPowMath\obj\Debug\net6.0\EjercPowMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabellaiva\source\repos\Ejercicios\EjercPowMath\obj\Debug\net6.0\EjercPowMath.AssemblyInfoInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\EjercPowMath\obj\Debug\net6.0\EjercPowMath.AssemblyInfo.cs
+C:\Users\fabellaiva\source\repos\Ejercicios\EjercPowMath\obj\Debug\net6.0\EjercPowMath.csproj.CoreCompileInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\EjercPowMath\obj\Debug\net6.0\EjercPowMath.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\EjercPowMath\obj\Debug\net6.0\refint\EjercPowMath.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\EjercPowMath\obj\Debug\net6.0\EjercPowMath.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\EjercPowMath\obj\Debug\net6.0\EjercPowMath.genruntimeconfig.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\EjercPowMath\obj\Debug\net6.0\ref\EjercPowMath.dll

@@ -1,0 +1,12 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\Billetes\bin\Debug\net6.0\Billetes.deps.json
+C:\Users\fabellaiva\source\repos\Ejercicios\Billetes\bin\Debug\net6.0\Billetes.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Billetes\bin\Debug\net6.0\Billetes.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Billetes\obj\Debug\net6.0\Billetes.csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Billetes\obj\Debug\net6.0\Billetes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabellaiva\source\repos\Ejercicios\Billetes\obj\Debug\net6.0\Billetes.AssemblyInfoInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Billetes\obj\Debug\net6.0\Billetes.AssemblyInfo.cs
+C:\Users\fabellaiva\source\repos\Ejercicios\Billetes\obj\Debug\net6.0\Billetes.csproj.CoreCompileInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Billetes\obj\Debug\net6.0\Billetes.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Billetes\obj\Debug\net6.0\refint\Billetes.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Billetes\obj\Debug\net6.0\Billetes.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Billetes\obj\Debug\net6.0\ref\Billetes.dll

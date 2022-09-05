@@ -1,0 +1,18 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\OperacionesConMoneda\bin\Debug\net6.0\I02 - Cotizador.exe
+C:\Users\fabellaiva\source\repos\Ejercicios\OperacionesConMoneda\bin\Debug\net6.0\I02 - Cotizador.deps.json
+C:\Users\fabellaiva\source\repos\Ejercicios\OperacionesConMoneda\bin\Debug\net6.0\I02 - Cotizador.runtimeconfig.json
+C:\Users\fabellaiva\source\repos\Ejercicios\OperacionesConMoneda\bin\Debug\net6.0\I02 - Cotizador.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\OperacionesConMoneda\bin\Debug\net6.0\I02 - Cotizador.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\OperacionesConMoneda\bin\Debug\net6.0\Billetes.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\OperacionesConMoneda\bin\Debug\net6.0\Billetes.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\OperacionesConMoneda\obj\Debug\net6.0\I02 - Cotizador.csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\OperacionesConMoneda\obj\Debug\net6.0\I02 - Cotizador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabellaiva\source\repos\Ejercicios\OperacionesConMoneda\obj\Debug\net6.0\I02 - Cotizador.AssemblyInfoInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\OperacionesConMoneda\obj\Debug\net6.0\I02 - Cotizador.AssemblyInfo.cs
+C:\Users\fabellaiva\source\repos\Ejercicios\OperacionesConMoneda\obj\Debug\net6.0\I02 - Cotizador.csproj.CoreCompileInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\OperacionesConMoneda\obj\Debug\net6.0\I02 - Cotizador.csproj.CopyComplete
+C:\Users\fabellaiva\source\repos\Ejercicios\OperacionesConMoneda\obj\Debug\net6.0\I02 - Cotizador.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\OperacionesConMoneda\obj\Debug\net6.0\refint\I02 - Cotizador.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\OperacionesConMoneda\obj\Debug\net6.0\I02 - Cotizador.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\OperacionesConMoneda\obj\Debug\net6.0\I02 - Cotizador.genruntimeconfig.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\OperacionesConMoneda\obj\Debug\net6.0\ref\I02 - Cotizador.dll

@@ -1,0 +1,12 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\Productos\bin\Debug\net6.0\Productos.deps.json
+C:\Users\fabellaiva\source\repos\Ejercicios\Productos\bin\Debug\net6.0\Productos.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Productos\bin\Debug\net6.0\Productos.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Productos\obj\Debug\net6.0\Productos.csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Productos\obj\Debug\net6.0\Productos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabellaiva\source\repos\Ejercicios\Productos\obj\Debug\net6.0\Productos.AssemblyInfoInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Productos\obj\Debug\net6.0\Productos.AssemblyInfo.cs
+C:\Users\fabellaiva\source\repos\Ejercicios\Productos\obj\Debug\net6.0\Productos.csproj.CoreCompileInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Productos\obj\Debug\net6.0\Productos.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Productos\obj\Debug\net6.0\refint\Productos.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Productos\obj\Debug\net6.0\Productos.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Productos\obj\Debug\net6.0\ref\Productos.dll

@@ -1,0 +1,18 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\Conversor BinaroDecimal-DecimalBinario\bin\Debug\net6.0\Conversor BinaroDecimal-DecimalBinario.exe
+C:\Users\fabellaiva\source\repos\Ejercicios\Conversor BinaroDecimal-DecimalBinario\bin\Debug\net6.0\Conversor BinaroDecimal-DecimalBinario.deps.json
+C:\Users\fabellaiva\source\repos\Ejercicios\Conversor BinaroDecimal-DecimalBinario\bin\Debug\net6.0\Conversor BinaroDecimal-DecimalBinario.runtimeconfig.json
+C:\Users\fabellaiva\source\repos\Ejercicios\Conversor BinaroDecimal-DecimalBinario\bin\Debug\net6.0\Conversor BinaroDecimal-DecimalBinario.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Conversor BinaroDecimal-DecimalBinario\bin\Debug\net6.0\Conversor BinaroDecimal-DecimalBinario.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Conversor BinaroDecimal-DecimalBinario\bin\Debug\net6.0\ClassLibrary.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Conversor BinaroDecimal-DecimalBinario\bin\Debug\net6.0\ClassLibrary.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Conversor BinaroDecimal-DecimalBinario\obj\Debug\net6.0\Conversor BinaroDecimal-DecimalBinario.csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Conversor BinaroDecimal-DecimalBinario\obj\Debug\net6.0\Conversor BinaroDecimal-DecimalBinario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabellaiva\source\repos\Ejercicios\Conversor BinaroDecimal-DecimalBinario\obj\Debug\net6.0\Conversor BinaroDecimal-DecimalBinario.AssemblyInfoInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Conversor BinaroDecimal-DecimalBinario\obj\Debug\net6.0\Conversor BinaroDecimal-DecimalBinario.AssemblyInfo.cs
+C:\Users\fabellaiva\source\repos\Ejercicios\Conversor BinaroDecimal-DecimalBinario\obj\Debug\net6.0\Conversor BinaroDecimal-DecimalBinario.csproj.CoreCompileInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Conversor BinaroDecimal-DecimalBinario\obj\Debug\net6.0\Conversor BinaroDecimal-DecimalBinario.csproj.CopyComplete
+C:\Users\fabellaiva\source\repos\Ejercicios\Conversor BinaroDecimal-DecimalBinario\obj\Debug\net6.0\Conversor BinaroDecimal-DecimalBinario.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Conversor BinaroDecimal-DecimalBinario\obj\Debug\net6.0\refint\Conversor BinaroDecimal-DecimalBinario.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Conversor BinaroDecimal-DecimalBinario\obj\Debug\net6.0\Conversor BinaroDecimal-DecimalBinario.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Conversor BinaroDecimal-DecimalBinario\obj\Debug\net6.0\Conversor BinaroDecimal-DecimalBinario.genruntimeconfig.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Conversor BinaroDecimal-DecimalBinario\obj\Debug\net6.0\ref\Conversor BinaroDecimal-DecimalBinario.dll
