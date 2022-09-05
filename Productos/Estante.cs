@@ -47,19 +47,22 @@ namespace Productos
 
         public static bool operator ==(Estante e, Producto p)
         {
-            for(int i = 0; i < e._productos.Length; i++)
+            if(!(e is null && p is null))
             {
-                if(e._productos[i] == p)
+                for (int i = 0; i < e._productos.Length; i++)
                 {
-                    return true;
+                    if (e._productos[i] == p)
+                    {
+                        return true;
+                    }
                 }
-            }
+            }   
             return false;
         }
 
         public static bool operator !=(Estante e, Producto p)
         {
-            return !(e == p);
+                return !(e == p);            
         }
 
         public static bool operator +(Estante e, Producto p)

@@ -5,8 +5,8 @@ namespace Ejercicio_C02___La_estantería
     {
         static void Main(string[] args)
         {
-            Estante estante = new Estante(3, 1);
-
+            Estante estante  = new Estante(3, 1);
+            Estante estante2 = new Estante(2, 2);
             // Creo 4 productos
             Producto p1 = new Producto("Pepsi", "PESDS97413", (float)18.5);
             Producto p2 = new Producto("Coca-Cola", "COSDS55752", (float)11.5);
@@ -50,7 +50,7 @@ namespace Ejercicio_C02___La_estantería
                 Console.WriteLine("¡NO agregó {0} {1} {2}!", p3.GetMarca, (string)p3, p3.GetPrecio);
             }
 
-            if (estante + p4)
+            if (estante2 + p4)
             {
                 Console.WriteLine("Agregó {0} {1} {2}", p4.GetMarca, (string)p4, p4.GetPrecio);
             }
@@ -63,6 +63,7 @@ namespace Ejercicio_C02___La_estantería
             Console.WriteLine();
             Console.WriteLine("<------------------------------------------------->");
             Console.WriteLine(Estante.MostrarEstante(estante));
+            Console.WriteLine(Estante.MostrarEstante(estante2));
         }
     }
 }
