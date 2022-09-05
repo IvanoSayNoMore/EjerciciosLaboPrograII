@@ -1,0 +1,18 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02 - La estantería\bin\Debug\net6.0\Ejercicio C02 - La estantería.exe
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02 - La estantería\bin\Debug\net6.0\Ejercicio C02 - La estantería.deps.json
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02 - La estantería\bin\Debug\net6.0\Ejercicio C02 - La estantería.runtimeconfig.json
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02 - La estantería\bin\Debug\net6.0\Ejercicio C02 - La estantería.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02 - La estantería\bin\Debug\net6.0\Ejercicio C02 - La estantería.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02 - La estantería\bin\Debug\net6.0\Productos.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02 - La estantería\bin\Debug\net6.0\Productos.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02 - La estantería\obj\Debug\net6.0\Ejercicio C02 - La estantería.csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02 - La estantería\obj\Debug\net6.0\Ejercicio C02 - La estantería.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02 - La estantería\obj\Debug\net6.0\Ejercicio C02 - La estantería.AssemblyInfoInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02 - La estantería\obj\Debug\net6.0\Ejercicio C02 - La estantería.AssemblyInfo.cs
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02 - La estantería\obj\Debug\net6.0\Ejercicio C02 - La estantería.csproj.CoreCompileInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02 - La estantería\obj\Debug\net6.0\Ejercicio C02 - La estantería.csproj.CopyComplete
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02 - La estantería\obj\Debug\net6.0\Ejercicio C02 - La estantería.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02 - La estantería\obj\Debug\net6.0\refint\Ejercicio C02 - La estantería.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02 - La estantería\obj\Debug\net6.0\Ejercicio C02 - La estantería.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02 - La estantería\obj\Debug\net6.0\Ejercicio C02 - La estantería.genruntimeconfig.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02 - La estantería\obj\Debug\net6.0\ref\Ejercicio C02 - La estantería.dll

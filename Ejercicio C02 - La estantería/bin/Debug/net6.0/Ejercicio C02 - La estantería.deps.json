@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ejercicio C02 - La estantería/1.0.0": {
+        "dependencies": {
+          "Productos": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio C02 - La estantería.dll": {}
+        }
+      },
+      "Productos/1.0.0": {
+        "runtime": {
+          "Productos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio C02 - La estantería/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Productos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

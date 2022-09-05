@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I02 - Cotizador", "Operacio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversor BinaroDecimal-DecimalBinario", "Conversor BinaroDecimal-DecimalBinario\Conversor BinaroDecimal-DecimalBinario.csproj", "{CC6D7A66-A9F0-4705-B811-36154F5467DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio C02 - La estantería", "Ejercicio C02 - La estantería\Ejercicio C02 - La estantería.csproj", "{8CCD31B7-26A5-4C60-98B9-43A534DE4477}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,10 @@ Global
 		{CC6D7A66-A9F0-4705-B811-36154F5467DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC6D7A66-A9F0-4705-B811-36154F5467DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC6D7A66-A9F0-4705-B811-36154F5467DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CCD31B7-26A5-4C60-98B9-43A534DE4477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CCD31B7-26A5-4C60-98B9-43A534DE4477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CCD31B7-26A5-4C60-98B9-43A534DE4477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CCD31B7-26A5-4C60-98B9-43A534DE4477}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
