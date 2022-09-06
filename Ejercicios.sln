@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio03", "Ejercicio03\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sobrecarga", "Sobrecarga\Sobrecarga.csproj", "{BA6C25B8-05E2-40EB-A9CB-455531B94900}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clases", "Clases", "{2E5D48DB-BCC4-4ABC-8AE0-26DD244E98CD}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Directorio de BibliotecaDeClases", "Directorio de BibliotecaDeClases", "{2E5D48DB-BCC4-4ABC-8AE0-26DD244E98CD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Productos", "Productos\Productos.csproj", "{6E63D023-AD04-485E-828E-72485728A33B}"
 EndProject

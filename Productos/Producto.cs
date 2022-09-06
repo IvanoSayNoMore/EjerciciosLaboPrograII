@@ -26,7 +26,7 @@ namespace Productos
 
         public static string MostrarProducto(Producto p)
         {
-            return String.Format("MARCA {0} CODIGO {1} PRECIO {2} ", p._marca, (string)p, p._precio);
+            return String.Format("MARCA {0} CODIGO {1} PRECIO {2} ", p.GetMarca, (string)p, p.GetPrecio);
         }
 
         /*************************************************************/
@@ -55,12 +55,9 @@ namespace Productos
             }
             return false;
         }
-
         public static bool operator !=(Producto p1, Producto p2)
         {
-            
-               return !(p1.GetMarca == p2.GetMarca);   
-          
+               return !(p1.GetMarca == p2.GetMarca);            
         } 
         public static bool operator ==(Producto p1, string marca)
         {
