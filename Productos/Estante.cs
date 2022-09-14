@@ -26,17 +26,15 @@ namespace Productos
         }
         public static string MostrarEstante(Estante e)
         {
-
             StringBuilder sb = new StringBuilder();
             sb.AppendLine($"Estante ubicacion: {e._ubicacionEstante} \n");
 
-            for (int i = 0; i < e._productos.Length; i++)
+            for (int i = 0; i < e.GetProductos.Length; i++)
             {
-                if (!Object.ReferenceEquals(e._productos[i], null))
+                if (!Object.ReferenceEquals(e.GetProductos[i], null))
                 {
                     sb.AppendLine(Producto.MostrarProducto(e._productos[i]));
                     sb.AppendLine("----------------------");
-
                 }
             }
             return sb.ToString();
@@ -46,25 +44,27 @@ namespace Productos
 
         public static bool operator ==(Estante e, Producto p)
         {
-            if(!(e is null && p is null))
-            { 
-                
+            bool retorno = false;
+            if (!(e is null && p is null))
+            {                 
                 for (int i = 0; i < e.GetProductos.Length; i++)
                 {
                     if (e.GetProductos[i] == p)
                     {
-                        return true;
+                        retorno = true;
+                        break;
                     }
                 }
             }   
-            return false;
+            return retorno;
         }
         public static bool operator !=(Estante e, Producto p)
         {
-                return !(e == p);            
+            return !(e == p);            
         }
         public static bool operator +(Estante e, Producto p)
         {
+            bool retorno = false ;
             if (e != p)
             {
                 for (int i = 0; i < e.GetProductos.Length; i++)
@@ -72,13 +72,13 @@ namespace Productos
                     if (e.GetProductos[i] is null)
                     {
                         e.GetProductos[i] = p;
-                        return true;
-
+                        retorno = true;
+                        break;
                     }
                 }
             }
 
-            return false;
+            return retorno;
         }
 
         #endregion SOBRECARGAS

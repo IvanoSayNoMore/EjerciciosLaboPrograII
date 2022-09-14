@@ -32,9 +32,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fabellaiva\\source\\repos\\Ejercicios\\Ejercicio03\\Ejercicio03.csproj",
+      "projectUniqueName": "C:\\Users\\fabellaiva\\source\\repos\\Ejercicios\\Ejercicios\\Ejercicios.csproj",
       "projectName": "Ejercicio03",
-      "projectPath": "C:\\Users\\fabellaiva\\source\\repos\\Ejercicios\\Ejercicio03\\Ejercicio03.csproj",
+      "projectPath": "C:\\Users\\fabellaiva\\source\\repos\\Ejercicios\\Ejercicios\\Ejercicios.csproj",
       "packagesPath": "C:\\Users\\fabellaiva\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\fabellaiva\\source\\repos\\Ejercicios\\Ejercicio03\\obj\\",
       "projectStyle": "PackageReference",

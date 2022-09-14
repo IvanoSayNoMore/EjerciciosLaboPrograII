@@ -1,0 +1,17 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\Contador de Palabras\obj\Debug\net6.0-windows\Contador de Palabras.csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Contador de Palabras\obj\Debug\net6.0-windows\Contador_de_Palabras.ContadorPalabras.resources
+C:\Users\fabellaiva\source\repos\Ejercicios\Contador de Palabras\obj\Debug\net6.0-windows\Contador de Palabras.csproj.GenerateResource.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Contador de Palabras\obj\Debug\net6.0-windows\Contador de Palabras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabellaiva\source\repos\Ejercicios\Contador de Palabras\obj\Debug\net6.0-windows\Contador de Palabras.AssemblyInfoInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Contador de Palabras\obj\Debug\net6.0-windows\Contador de Palabras.AssemblyInfo.cs
+C:\Users\fabellaiva\source\repos\Ejercicios\Contador de Palabras\obj\Debug\net6.0-windows\Contador de Palabras.csproj.CoreCompileInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Contador de Palabras\bin\Debug\net6.0-windows\Contador de Palabras.exe
+C:\Users\fabellaiva\source\repos\Ejercicios\Contador de Palabras\bin\Debug\net6.0-windows\Contador de Palabras.deps.json
+C:\Users\fabellaiva\source\repos\Ejercicios\Contador de Palabras\bin\Debug\net6.0-windows\Contador de Palabras.runtimeconfig.json
+C:\Users\fabellaiva\source\repos\Ejercicios\Contador de Palabras\bin\Debug\net6.0-windows\Contador de Palabras.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Contador de Palabras\bin\Debug\net6.0-windows\Contador de Palabras.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Contador de Palabras\obj\Debug\net6.0-windows\Contador de Palabras.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Contador de Palabras\obj\Debug\net6.0-windows\refint\Contador de Palabras.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Contador de Palabras\obj\Debug\net6.0-windows\Contador de Palabras.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Contador de Palabras\obj\Debug\net6.0-windows\Contador de Palabras.genruntimeconfig.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Contador de Palabras\obj\Debug\net6.0-windows\ref\Contador de Palabras.dll

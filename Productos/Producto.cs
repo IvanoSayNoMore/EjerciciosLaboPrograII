@@ -21,7 +21,7 @@ namespace Productos
         }
         public Producto(string marca, string codigoDeBarra, float precio) : this(marca, codigoDeBarra)
         {           
-            this._precio         = precio;
+            this._precio = precio;
         }
 
         public static string MostrarProducto(Producto p)
@@ -49,11 +49,12 @@ namespace Productos
 
         public static bool operator ==(Producto p1, Producto p2)
         {
+            bool retorno = false;
             if (!(p1 is null || p2 is null))
             {
-                return (p1.GetMarca == p2.GetMarca && p1._codigoDeBarra == p2._codigoDeBarra);
+                retorno = (p1.GetMarca == p2.GetMarca && p1._codigoDeBarra == p2._codigoDeBarra);
             }
-            return false;
+            return retorno;
         }
         public static bool operator !=(Producto p1, Producto p2)
         {
@@ -61,22 +62,24 @@ namespace Productos
         } 
         public static bool operator ==(Producto p1, string marca)
         {
+            bool retorno = false;
             if (!(p1 is null || marca is null))
             {
                 if (p1.GetMarca == marca)
                 {
-                    return true;
+                    retorno = true;
                 }
             }
-            return false;
+            return retorno;
         }
         public static bool operator !=(Producto p1, string marca)
-        {            
-                if (p1.GetMarca == marca)
+        {
+            bool retorno = false;
+            if (p1.GetMarca == marca)
                 {
-                    return true;
+                retorno = true;
                 }            
-            return false;
+            return retorno;
         }
 
         #endregion SOBRECARGAS Operadores

@@ -1,0 +1,11 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\ContadorPalabras\bin\Debug\ContadorPalabras.exe.config
+C:\Users\fabellaiva\source\repos\Ejercicios\ContadorPalabras\bin\Debug\ContadorPalabras.exe
+C:\Users\fabellaiva\source\repos\Ejercicios\ContadorPalabras\bin\Debug\ContadorPalabras.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\ContadorPalabras\obj\Debug\ContadorPalabras.csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\ContadorPalabras\obj\Debug\ContadorPalabras.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\ContadorPalabras\obj\Debug\ContadorPalabras.ContadorDePalabras.resources
+C:\Users\fabellaiva\source\repos\Ejercicios\ContadorPalabras\obj\Debug\ContadorPalabras.Properties.Resources.resources
+C:\Users\fabellaiva\source\repos\Ejercicios\ContadorPalabras\obj\Debug\ContadorPalabras.csproj.GenerateResource.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\ContadorPalabras\obj\Debug\ContadorPalabras.csproj.CoreCompileInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\ContadorPalabras\obj\Debug\ContadorPalabras.exe
+C:\Users\fabellaiva\source\repos\Ejercicios\ContadorPalabras\obj\Debug\ContadorPalabras.pdb
